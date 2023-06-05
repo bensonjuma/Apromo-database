@@ -1,0 +1,8 @@
+"OrderID","CustomerID","ProductID","OrderDate","OrderStatus","DeliverlyID"
+"1","2","3","2023-05-16","Pending   ","4"
+"2","3","5","2023-05-17","Shipped   ","5"
+"3","4","6","2023-05-18","Delivered ","6"
+"4","2","4","2023-05-19","Pending   ","7"
+"5","5","3","2023-05-20","Shipped   ","8"
+"6","1","5","2023-05-21","Delivered ","9"
+"7","3","4","2023-05-22","Pending   ","10"

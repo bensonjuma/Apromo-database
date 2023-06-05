@@ -1,0 +1,8 @@
+"CompanyID","CompanyName","Location","ContactDetails","WareHouseID"
+"3","Apple Inc.","1 Apple Park Way, Cupertino, CA 95014","408-996-1010","3"
+"4","Amazon.com, Inc.","410 Terry Avenue North, Seattle, WA 98109","206-266-1000","4"
+"5","Facebook, Inc.","1 Hacker Way, Menlo Park, CA 94025","650-308-7300","5"
+"6","Alphabet Inc.","1600 Amphitheatre Parkway, Mountain View, CA 94043","650-253-0000","6"
+"8","Oracle Corporation","500 Oracle Parkway, Redwood City, CA 94065","650-506-7000","8"
+"9","IBM Corporation","1 New Orchard Road, Armonk, NY 10504","914-499-1900","9"
+"10","Netflix, Inc.","100 Winchester Circle, Los Gatos, CA 95032","408-540-3700","10"
